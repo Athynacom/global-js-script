@@ -1,4 +1,3 @@
-<script>
 $(document).ready(function() {
   // Array of invalid domains
   const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com'];
@@ -29,4 +28,3 @@ $(document).ready(function() {
     }
   });
 });
-</script>
