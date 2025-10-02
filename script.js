@@ -1,6 +1,6 @@
 $(document).ready(function() {
   // Array of invalid domains
-  const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com', 'rankinghat.co', '24red.ru', 'stomatolog4-3d-printery.store', 'ter54-gevision.store', 'gazeta.pl'];
+  const invalidDomains = ['gmail.com', 'yahoo.com', 'hotmail.com', 'outlook.com', 'aol.com', 'msn.com', 'googlemail.com', 'rankinghat.co', '24red.ru', 'stomatolog4-3d-printery.store', 'ter54-gevision.store', 'gazeta.pl', 'icloud.com'];
 
   // Get the submit button
   const submitBtn = $('#continue_submit');
